@@ -7,6 +7,8 @@ public class Ejemplo {
 		
 		String nombre = "Irene";
 		
+		System.out.println(nombre);
+		
 	}
 
 }
