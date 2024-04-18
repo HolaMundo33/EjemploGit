@@ -1,1 +1,1 @@
-Esto es un ejemplo para la clase de Git
+# ESTO ES UN EJEMPLO PARA LA CLASE DE GIT
